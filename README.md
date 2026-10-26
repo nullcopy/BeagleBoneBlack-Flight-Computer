@@ -19,3 +19,7 @@ Hardware
 - AltIMU-10 from Pololu (http://www.pololu.com/product/1269)
 - Ultimate GPS Breakout from Adafruit (http://www.adafruit.com/products/746)
 - Misc servos and ESCs for aircraft control
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
